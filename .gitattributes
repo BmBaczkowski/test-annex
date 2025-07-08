@@ -1,0 +1,11 @@
+# .gitattributes
+
+# Annex large files (e.g., all .mp4 files)
+*.txt annex.largefiles=anything
+
+# Do NOT annex files (they are tracked by normal Git)
+*.md annex.largefiles=nothing
+
+# You can add more rules:
+# *.zip annex.largefiles=largerthan=10MB
+
