@@ -1,1 +1,2 @@
 40994ccf-1d13-4d79-af5d-ee57b7251907 encryption=none name=jetflash type=directory timestamp=1751973401s
+93bf642b-d597-47b7-b580-da664f31b370 encryption=none name=myrclone rclonelayout=lower rcloneprefix=sd24h001/test_annex_storage rcloneremotename=sdshd type=rclone timestamp=1752940373s
